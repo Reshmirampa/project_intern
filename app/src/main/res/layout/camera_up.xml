@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:id="@+id/image_capture"
+        android:contentDescription="@string/todo" />
+    <Button
+        android:id="@+id/bn_capture"
+        android:layout_marginTop="40dp"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:text="@string/capture_image1"
+        android:layout_marginStart="70dp"
+        android:textAlignment="center"
+        android:background="@drawable/bg2"
+        android:textSize="40sp">
+
+    </Button>
+
+</LinearLayout>

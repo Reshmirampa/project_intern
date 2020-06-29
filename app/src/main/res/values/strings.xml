@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PROJECT D</string>
+    <string name="search">Search</string>
+    <string name="linearlayout"><![CDATA[/> </LinearLayout>]]></string>
+    <string name="capture">Capture</string>
+    <string name="camera">Camera</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="todo">TODO</string>
+    <string name="capture_image1">CAPTURE IMAGE</string>
+</resources>

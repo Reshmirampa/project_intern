@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_Feed"
+        android:icon="@drawable/ic_baseline_dehaze_24"
+        android:title="Feed" />
+
+
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search" />
+    <item
+        android:id="@+id/nav_Donate"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Donate" />
+
+
+
+    <item
+        android:id="@+id/nav_MyProfile"
+        android:icon="@drawable/ic_baseline_how_to_reg_24"
+        android:title="My Profile" />
+    <item
+        android:id="@+id/nav_uploads"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="Uploads" />
+
+
+</menu>
